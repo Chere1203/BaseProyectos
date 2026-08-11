@@ -34,6 +34,7 @@ export { FIELD_STYLES } from "./fields/FieldStyles.constants";
 export { INPUT } from "@/app/components/input/constants";
 export { SECTION_ID } from "./strings/SectionId.Types";
 export { SLUGS } from "./strings/Slugs.constants";
+export { USER_LIST } from "./strings/UserList.constants";
 export { STATUS } from "./strings/Status.types";
 export { BOOLEAN } from "./strings/Boolean.constants";
 export { POSITION } from "./strings/Position.types";
