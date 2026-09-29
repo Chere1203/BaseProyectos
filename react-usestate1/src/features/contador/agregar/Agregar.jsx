@@ -21,7 +21,7 @@ export function Agregar({ onAgregarPersona }) {
 
         onAgregarPersona(nuevaPersona)
 
-        // Limpiar inputs
+
         setNombre("")
         setApellido("")
         setEdad("")
